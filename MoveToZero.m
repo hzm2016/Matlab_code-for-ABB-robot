@@ -1,0 +1,1 @@
+MoveJointTo([0 0 0 0 0 0],50,socket);
